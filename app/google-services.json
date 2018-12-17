@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301171473772",
+    "firebase_url": "https://compas-disiplin.firebaseio.com",
+    "project_id": "compas-disiplin",
+    "storage_bucket": "compas-disiplin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301171473772:android:7e0bb179b813d4bc",
+        "android_client_info": {
+          "package_name": "com.example.pc_22.compass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301171473772-5e2g6ansdo74lm4mnipin4pn4pol7aa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc_22.compass",
+            "certificate_hash": "c93636e0ea88aa6031dce0f80ad8f3cd92da7da2"
+          }
+        },
+        {
+          "client_id": "301171473772-gtsn5c2etht1ie47bju29jlqa8plh01a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclwl0bSKALLhxy0-n1P6PxbrEgJXthFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301171473772-gtsn5c2etht1ie47bju29jlqa8plh01a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
